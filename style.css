@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* scarpa rossa */
+
+.back{
+   background-color: red;
+   height: 100vh;
+   width: 100%;
+}
+
+.divscarpa{
+    max-width: 40vw;
+    margin: 0 auto;
+    padding-top: 15vh;
+   
+}
+
+.immaginesh{
+    max-width: 40vw;
+}
+
+.scritta{
+    font-size: 46px;
+    text-align: center;
+    color: yellow;
+}
+
+/* scarpa verde */
+
+.back2{
+    background-color: green;
+    height: 100vh;
+    width: 100%;
+ }
+ 
+ .divscarpa2{
+     max-width: 40vw;
+     margin: 0 auto;
+     padding-top: 15vh;
+    
+ }
+ 
+ .immaginesh2{
+     max-width: 40vw;
+ }
+ 
+ .scritta2{
+     font-size: 46px;
+     text-align: center;
+     color: yellow;
+ }
+
+ /* scarpa gialla */
+
+.back3{
+    background-color: yellow;
+    height: 100vh;
+    width: 100%;
+ }
+ 
+ .divscarpa3{
+     max-width: 40vw;
+     margin: 0 auto;
+     padding-top: 15vh;
+    
+ }
+ 
+ .immaginesh3{
+     max-width: 40vw;
+ }
+ 
+ .scritta3{
+     font-size: 46px;
+     text-align: center;
+     color: green;
+ }
