@@ -4,6 +4,57 @@
     box-sizing: border-box;
 }
 
+body{
+    position: relative;
+}
+
+/* bottoni */
+
+.allbottoni{
+    display: inline-block;
+    position: absolute;
+    padding: 10px;
+    transform: translate( -50% , -50% );
+    left: 50%;
+    top: 2%;
+    position: fixed;
+    top: 40px;
+    z-index: 999;
+    
+}
+
+ul>a{
+    text-decoration: none;
+    color: white;
+}
+
+.b1{
+    display: inline-block;
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 65%;
+    background-color: red;
+    color: white;
+    
+}
+.b2{
+    display: inline-block;
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 65%;
+    background-color: green;
+    color: white;
+}
+.b3{
+    display: inline-block;
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 65%;
+    background-color: yellow;
+    color: white;
+}
+
+
 /* scarpa rossa */
 
 .back{
